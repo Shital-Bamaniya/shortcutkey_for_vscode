@@ -10,7 +10,7 @@ so  follow the above step and easily change the word simentenouslly
 
 
 Benefits:
-=>Easy to change coorect same words mistakes in in one time for same words 
+=>Easy to change correct same words mistakes in in one time for same words 
 for example in a paragraph that mistakes on word 'want' instead of 'what'
 Two choice to solve those mistakes 
 first find every word and each and every word change want instead Of what or
